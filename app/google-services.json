@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "949284523373",
+    "firebase_url": "https://kidapp-1.firebaseio.com",
+    "project_id": "kidapp-1",
+    "storage_bucket": "kidapp-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949284523373:android:b967b5a10c5fd262859e64",
+        "android_client_info": {
+          "package_name": "com.example.kidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949284523373-m2dh6rv14lndqtbmf99tb4kr30tditfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kidapp",
+            "certificate_hash": "ed8d5333a1e86fd0594fecb45cb1a649b17993f1"
+          }
+        },
+        {
+          "client_id": "949284523373-91jj5q1sheqs1etoc5tglc1gse783n26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA74cXzLHiqZZIH0ZvTBa17l7JeAUizzew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949284523373-91jj5q1sheqs1etoc5tglc1gse783n26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
